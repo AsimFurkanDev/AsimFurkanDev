@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>"Creating bugs since I wrote my first line of code, but I'm also pretty good at fixing them! 🐞"<br> 📚 I'm currently learning ...<br>"I'm currently diving deep into JavaScript and React. I'm also developing frontend and backend projects with Node.js and Sass."<br> 🎯 Goals: ...<br>"Goals: Master JavaScript, contribute to large-scale React projects, and make impactful contributions to open-source."<br> 🎲 Fun fact: ...<br>"Fun fact: It takes me 5 minutes to find the right line while debugging, but 5 hours to fix the bug. 😅" </p>
 
 ###
 
